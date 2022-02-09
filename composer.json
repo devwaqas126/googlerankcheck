@@ -1,0 +1,16 @@
+{
+    "name": "devwaqas/googlerankcheck",
+    "type": "library",
+    "description": "This package is to get google search results",
+    "keywords": ["google.com","keyword position","rankcheck"],
+    "homepage": "https://developerwaqas.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Muhammad Waqas",
+            "email": "dev.waqas126@gmail.com",
+            "homepage": "http://developerwaqas.com",
+            "role": "Developer"
+        }
+    ],
+}
