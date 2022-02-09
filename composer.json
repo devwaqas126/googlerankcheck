@@ -1,6 +1,6 @@
 {
     "name": "devwaqas/googlerankcheck",
-    "type": "library",
+    "type": "package",
     "description": "This package is to get google search results",
     "keywords": ["google.com","keyword position","rankcheck"],
     "homepage": "https://developerwaqas.com",
