@@ -13,8 +13,6 @@ This is simple keyword rank checker tool.
     
 ## Usage
 
-### csv
-
 ```
 $client = new SearchEngine();
 
