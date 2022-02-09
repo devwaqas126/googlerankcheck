@@ -5,6 +5,7 @@
     "keywords": ["google.com","keyword position","rankcheck"],
     "homepage": "https://developerwaqas.com",
     "license": "MIT",
+    "version":"1.0",
     "authors": [
         {
             "name": "Muhammad Waqas",
@@ -13,4 +14,7 @@
             "role": "Developer"
         }
     ],
+      "require": {
+        "php": ">=7.0"
+    },
 }
