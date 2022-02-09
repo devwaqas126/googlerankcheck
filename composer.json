@@ -14,7 +14,15 @@
             "role": "Developer"
         }
     ],
-      "require": {
-        "php": ">=7.0"
+    
+    "type": "script",
+    "require": {
+        "php": "^7.0"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "GinoPane\\Template\\": "src/"
+        }
     },
 }
