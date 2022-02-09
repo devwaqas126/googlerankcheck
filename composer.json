@@ -16,7 +16,6 @@
         }
     ],
     
-    "type": "script",
     "require": {
         "php": "^7.0"
     },
