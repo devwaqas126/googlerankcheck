@@ -5,6 +5,7 @@
     "keywords": ["google.com","keyword position","rankcheck"],
     "homepage": "https://developerwaqas.com",
     "license": "MIT",
+        "minimum-stability": "stable",
     "version":"1.0",
     "authors": [
         {
